@@ -1,0 +1,35 @@
+* {
+    font-family: Roboto;
+    text-decoration: none;
+    list-style-type: none;
+    background-color: #292929;
+    color: #fff;
+}
+
+.options {
+    text-align: center;
+    color: #fff;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: #fff;
+}
+
+th {
+    border: 3px solid #fff;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    border: 3px solid #fff;
+    text-align: left;
+    padding: 8px;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: #fff;
+}
